@@ -1,3 +1,4 @@
+# Safely Storing Openai API keys which prevent unnecessary exposing:
 ## For Windows:
 Open Command Prompt and run:
 ```
