@@ -14,7 +14,7 @@ def generate_blog(prompt, max_tokens=500):
     """
     try:
         response = openai.Completion.create(
-            engine="gpt-3.5-turbo",  # Or use GPT-4 if available: "gpt-4"
+            engine="gpt-4o-mini",  # Or use GPT-4 if available: "gpt-4"
             prompt=prompt,
             max_tokens=max_tokens,
             temperature=0.7,  # Adjust creativity level
