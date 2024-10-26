@@ -24,7 +24,7 @@ You can also see an overview of the most used languages in these projects:
 
 Here are some of the standout projects in this repository:
 
-### 1. **Project Name**
+### 1. **Python Projects*
    - **Description**: A brief overview of what the project does and the key technologies used.
    - **Highlights**: 
      - Feature 1
