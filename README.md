@@ -24,7 +24,7 @@ You can also see an overview of the most used languages in these projects:
 
 Here are some of the standout projects in this repository:
 
-### 1. **Python Projects*
+### 1. **Python Projects**
    - **Description**: A brief overview of what the project does and the key technologies used.
    - **Highlights**: 
      - Feature 1
@@ -33,7 +33,7 @@ Here are some of the standout projects in this repository:
 
    [🔗 View Project](#)
 
-### 2. **Project Name**
+### 2. **JavaScript DOM Projects**
    - **Description**: An innovative project that explores the intersection of design and technology.
    - **Highlights**: 
      - Feature 1
