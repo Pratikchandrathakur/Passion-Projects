@@ -40,7 +40,7 @@ Here are some of the standout projects in this repository:
      - Feature 2
      - Feature 3
 
-   [🔗 View Project](#)
+   [🔗 View Project](https://github.com/Pratikchandrathakur/Passion-Projects/tree/main/%F0%9F%8C%9F%20JavaScript%20DOM%20Magic%3A%20Unleash%20the%20Power!%20%F0%9F%AA%84%E2%9C%A8)
 
 ### 3. **Project Name**
    - **Description**: A fun experiment with new frameworks and APIs.
