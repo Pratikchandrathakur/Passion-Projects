@@ -31,7 +31,7 @@ Here are some of the standout projects in this repository:
      - Feature 2
      - Feature 3
 
-   [🔗 View Project](#)
+   [🔗 View Project](https://github.com/Pratikchandrathakur/Passion-Projects/tree/main/Python-Projects%20%F0%9F%98%84%F0%9F%90%8D)
 
 ### 2. **JavaScript DOM Projects**
    - **Description**: An innovative project that explores the intersection of design and technology.
